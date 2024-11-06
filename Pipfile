@@ -13,6 +13,9 @@ flask = "*"
 requests = "*"
 python-dotenv = "*"
 flask-cors = "*"
+flask-wtf = "*"
+rapidfuzz = "*"
+sqlalchemy = "*"
 
 [dev-packages]
 
