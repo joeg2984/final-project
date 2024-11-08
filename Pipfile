@@ -16,6 +16,8 @@ flask-cors = "*"
 flask-wtf = "*"
 rapidfuzz = "*"
 sqlalchemy = "*"
+openai = "*"
+pydantic = "*"
 
 [dev-packages]
 
